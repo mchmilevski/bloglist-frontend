@@ -1,7 +1,8 @@
 ## Blog List Application
 
 The frontend part of the Blog List App.
-You can take a look on the app [here](https://crimson-shadow-3188.fly.dev/)
+
+You can take a look on the app [here](https://crimson-shadow-3188.fly.dev/).
  
 ### Features
 1. Login and token authentication
